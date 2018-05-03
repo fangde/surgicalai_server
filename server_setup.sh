@@ -7,3 +7,4 @@ sudo apt-get install cuda-9-0
 pip install tensorflow-gpu
 pip install tensorlayer
 pip install pycuda
+pip install tfquaterion
